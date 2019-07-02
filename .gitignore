@@ -1,0 +1,21 @@
+*.class
+*.log
+
+# IntelliJ
+.idea
+.idea_modules
+*.iml
+*.ipr
+*.iws
+.history
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+
+# scalameta/metals
+.metals/
+.bloop/
